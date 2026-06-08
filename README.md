@@ -69,15 +69,20 @@ npm run dev
 ```bash
 npm test
 ```
-(Pruebas implementadas mediante Vitest)
+
+Las pruebas unitarias han sido implementadas utilizando Vitest y React Testing Library.
 
 ### Ejecución de pruebas de aceptación
 
 ```bash
+npm run cypress:open
+```
+
+o alternativamente:
+
+```bash
 npx cypress open
 ```
-npm run cypress:open
----
 
 ## Estrategia de validación
 
