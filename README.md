@@ -69,13 +69,14 @@ npm run dev
 ```bash
 npm test
 ```
+(Pruebas implementadas mediante Vitest)
 
 ### Ejecución de pruebas de aceptación
 
 ```bash
 npx cypress open
 ```
-
+npm run cypress:open
 ---
 
 ## Estrategia de validación
